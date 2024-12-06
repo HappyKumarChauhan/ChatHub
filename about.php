@@ -30,10 +30,10 @@
   <div class="container my-4 bg-gradient p-3">
     <h1 class="text-center">Developed By:</h1>
     <div class="developer-image text-center">
-      <img src="dhiraj.jpeg" width="25%" alt="">
+      <img src="happy.jpg" width="25%" alt="">
     </div>
     <div class="container about-developer">
-      <h2 class="text-center">Dhiraj Kumar Maurya</h2>
+      <h2 class="text-center">Happy Kumar</h2>
       <h4 class="text-center text-secondary">(Full Stack Web Developer)</h4>
       <div class="container text-center">
         <a className="m-1" href="https://www.linkedin.com/in/happy-kumar-1773a228a/"><img width="30" src="linkedin.svg"
